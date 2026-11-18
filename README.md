@@ -4,6 +4,8 @@ Repositorio de material académico de la asignatura **Lógica de Programación**
 
 Este repositorio reúne presentaciones, guías, talleres, ejercicios, evaluaciones, apuntes y documentación de las actividades desarrolladas entre agosto y noviembre de 2026. Su propósito es conservar y organizar el material del curso, facilitar su consulta y mantener un registro del proceso de aprendizaje.
 
+Se recomienda al lector leer algunos libros y documentos de: https://librosgratis.dev/#java y https://librosgratis.dev/#git
+
 ---
 
 ## Información de la asignatura
