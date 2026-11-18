@@ -1,0 +1,25 @@
+# Archivos compilados de Java
+*.class
+target/
+out/
+
+# Archivos temporales y de respaldo
+*.tmp
+*.bak
+*.swp
+*~
+
+# Configuración de editores e IDE
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Evaluaciones y entregas académicas privadas
+06-parciales/
