@@ -138,7 +138,7 @@ Como actividad complementaria, se contempla la formación y certificación en fu
 
 - Insignia de microcertificación.
 - Certificación del curso: Introducción a Java.
-- Material de preparación y consulta.
+- Material de preparación y consulta (se encuentra esto en mi linkedin)
 
 ## Recursos complementarios
 
